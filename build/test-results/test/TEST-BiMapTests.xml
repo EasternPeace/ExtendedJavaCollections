@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BiMapTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-03T16:41:58" hostname="MISSPEACE" time="0.026">
+  <properties/>
+  <testcase name="start" classname="BiMapTests" time="0.026"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1 (37)?[0m
+?[1;31m
+Start test 2 (38)?[0m
+?[1;31m
+Start test 3 (39)?[0m
+?[1;31m
+Start test 4 (40)?[0m
+?[1;31m
+Start test 5 (41)?[0m
+?[1;31m
+Start test 6 (42)?[0m
+?[1;31m
+Start test 7 (43)?[0m
+?[1;31m
+Start test 8 (44)?[0m
+?[1;31m
+Start test 9 (45)?[0m
+?[1;31m
+Start test 10 (46)?[0m
+?[1;31m
+Start test 11 (47)?[0m
+?[1;31m
+Start test 12 (48)?[0m
+?[1;31m
+Start test 13 (49)?[0m
+?[1;31m
+Start test 14 (50)?[0m
+?[1;31m
+Start test 15 (51)?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MultisetTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-03T16:41:58" hostname="MISSPEACE" time="0.027">
+  <properties/>
+  <testcase name="start" classname="MultisetTests" time="0.027"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1 (57)?[0m
+?[1;31m
+Start test 2 (58)?[0m
+?[1;31m
+Start test 3 (59)?[0m
+?[1;31m
+Start test 4 (60)?[0m
+?[1;31m
+Start test 5 (61)?[0m
+?[1;31m
+Start test 6 (62)?[0m
+?[1;31m
+Start test 7 (63)?[0m
+?[1;31m
+Start test 8 (64)?[0m
+?[1;31m
+Start test 9 (65)?[0m
+?[1;31m
+Start test 10 (66)?[0m
+?[1;31m
+Start test 11 (67)?[0m
+?[1;31m
+Start test 12 (68)?[0m
+?[1;31m
+Start test 13 (69)?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

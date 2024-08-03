@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QueueTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-03T16:41:58" hostname="MISSPEACE" time="0.023">
+  <properties/>
+  <testcase name="start" classname="QueueTests" time="0.023"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1 (70)?[0m
+?[1;31m
+Start test 2 (71)?[0m
+?[1;31m
+Start test 3 (72)?[0m
+?[1;31m
+Start test 4 (73)?[0m
+?[1;31m
+Start test 5 (74)?[0m
+?[1;31m
+Start test 6 (75)?[0m
+?[1;31m
+Start test 7 (76)?[0m
+?[1;31m
+Start test 8 (77)?[0m
+?[1;31m
+Start test 9 (78)?[0m
+?[1;31m
+Start test 10 (79)?[0m
+?[1;31m
+Start test 11 (80)?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

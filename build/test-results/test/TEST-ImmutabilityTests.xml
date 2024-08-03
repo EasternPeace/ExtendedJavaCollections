@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ImmutabilityTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-03T16:41:58" hostname="MISSPEACE" time="0.005">
+  <properties/>
+  <testcase name="start" classname="ImmutabilityTests" time="0.005"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1 (52)?[0m
+?[1;31m
+Start test 2 (53)?[0m
+?[1;31m
+Start test 3 (54)?[0m
+?[1;31m
+Start test 4 (55)?[0m
+?[1;31m
+Start test 5 (56)?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
